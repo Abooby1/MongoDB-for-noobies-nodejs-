@@ -36,7 +36,3 @@ class data {
   }
 }
 const db = new data('<database name>', '<collection name>')
-
-const data = {
-  uid: 'a string that will stick with the user forever for the data to be saved and found'
-}
